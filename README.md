@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cheshir/logrustash.svg?branch=master)](https://travis-ci.org/cheshir/logrustash)
+[![Build Status](https://travis-ci.com/cheshir/logrustash.svg?branch=master)](https://travis-ci.com/cheshir/logrustash)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cheshir/logrustash)](https://goreportcard.com/report/github.com/cheshir/logrustash)
 [![codecov](https://codecov.io/gh/cheshir/logrustash/branch/master/graph/badge.svg)](https://codecov.io/gh/cheshir/logrustash)
 [![GoDoc](https://godoc.org/github.com/cheshir/logrustash?status.svg)](https://godoc.org/github.com/cheshir/logrustash)
